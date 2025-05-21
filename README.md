@@ -1,0 +1,6 @@
+ - Install XAMPP
+ - Setup SSL
+ - Paste files in `htdocs`
+ - Start SQL Server
+ - Paste `database_setup` in SQL
+ - Start Apache Server
